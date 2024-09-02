@@ -6,12 +6,12 @@ This app allows users to send and receive money, manage transaction history, and
 
 🛠️ Tech Stack
 Backend:
-Node.js: JavaScript runtime for building scalable network applications.
-Express.js: Fast, unopinionated, minimalist web framework for Node.js.
-MongoDB: NoSQL database for storing user data and transaction history.
-Zod: TypeScript-first schema declaration and validation library.
-Middleware: Custom middleware for handling authentication, error handling, and more.
-Transactions: Ensuring atomic and secure money transfers with MongoDB transaction logic.
+  Node.js: JavaScript runtime for building scalable network applications.
+  Express.js: Fast, unopinionated, minimalist web framework for Node.js.
+  MongoDB: NoSQL database for storing user data and transaction history.
+  Zod: TypeScript-first schema declaration and validation library.
+  Middleware: Custom middleware for handling authentication, error handling, and more.
+  Transactions: Ensuring atomic and secure money transfers with MongoDB transaction logic.
 Frontend:
-React.js (currently under development): A JavaScript library for building user interfaces.
-CSS3: Planned for styling a responsive and attractive UI.
+  React.js (currently under development): A JavaScript library for building user interfaces.
+  CSS3: Planned for styling a responsive and attractive UI.

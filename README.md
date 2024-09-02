@@ -18,4 +18,4 @@ This app allows users to send and receive money, manage transaction history, and
 
 ### Frontend:
 - **React.js** (currently under development): A JavaScript library for building user interfaces.
-- **CSS3**: Planned for styling a responsive and attractive UI.
+- **TailwindCSS**: Planned for styling a responsive and attractive UI.

@@ -1,6 +1,6 @@
-# PayTM Clone - Money Transfer App
+# Money Transfer App
 
-Welcome to the PayTM Clone, a modern and secure money transfer application. This project replicates core features of PayTM, focusing on seamless transactions and secure backend operations.
+Welcome to the Money Transfer App, a modern and secure application. This project replicates core features of standard money tranfer apps, focusing on seamless transactions and secure backend operations.
 
 ## 🚀 Project Overview
 
